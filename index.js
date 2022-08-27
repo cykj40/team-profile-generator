@@ -1,11 +1,10 @@
-const Manager = require("");
-const Engineer = require("");
-const Intern = require("");
+const Manager = require("./lib/Manager");
+const Engineer = require("./lib/Engineer");
+const Intern = require("./lib/Intern");
 const inquirer = require("inquirer");
 const path = require("path");
 const fs = require("fs");
 const { default: inquirer } = require("inquirer");
-const { createInflate } = require("zlib");
 
 const OUTPUT_DIR = path.resolve(_dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
