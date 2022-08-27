@@ -1,8 +1,8 @@
 const Manager = require("");
 const Engineer = require("");
 const Intern = require("");
-const Inquirer = require("inquirer");
-const Path = require("path");
+const inquirer = require("inquirer");
+const path = require("path");
 const fs = require("fs");
 const { default: inquirer } = require("inquirer");
 const { createInflate } = require("zlib");
@@ -18,7 +18,7 @@ function start() {
     manageQuery();
 }
 
-function mangeQuery() {
+function manageQuery() {
     inquirer
         .prompt([
             {
