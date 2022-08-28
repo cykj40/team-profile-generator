@@ -55,7 +55,7 @@
  
  ## Screenshots
   ![Screenshot (32)](https://user-images.githubusercontent.com/102045473/187086941-d34f48ca-f663-4a6e-b8c0-8c7b1bc36fc5.png)
-![Screenshot (33)](https://user-images.githubusercontent.com/102045473/187086947-28553e4c-b937-4db6-a49a-16a3268b9298.png)
+
 
   
  
