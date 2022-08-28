@@ -59,7 +59,7 @@ function addTeamMember() {
         .prompt([
             {
                 type: "list",
-                name: " what_type",
+                name: "what_type",
                 message: "Add an engineer or intern to the team?",
                 choices: ["Engineer", "Intern", "Not at this time"],
             },
