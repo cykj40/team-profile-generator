@@ -48,10 +48,11 @@
   
  
   ## Installation
+  ```md
   clone the repo git@github.com/cykj40/team-profile-generator.gitRun
   Run 'NPM install' in the command prompt to install the dependencies. 
   run node index.js to run the application
-
+```
   ## License
 ![badge](https://img.shields.io/badge/license-MIT--brightgreen)
 <br />
