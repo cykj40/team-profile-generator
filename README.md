@@ -49,7 +49,7 @@
  
   ## Installation
   ```md
-  clone the repo git@github.com/cykj40/team-profile-generator.gitRun
+  clone the repo https://github.com/cykj40/team-profile-generator.git
   Run 'NPM install' in the command prompt to install the dependencies. 
   run node index.js to run the application
 ```
