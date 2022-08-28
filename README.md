@@ -54,9 +54,15 @@
  <a href="https://watch.screencastify.com/v/Z68a3VozaMy6Yb6y8QST">Click here for a video preview </a>
  
  ## Screenshots
+  
+  
+![Screenshot (27)](https://user-images.githubusercontent.com/102045473/187094197-bb78b079-eeb1-464c-ab60-2336cc57e94a.png)
   ![Screenshot (32)](https://user-images.githubusercontent.com/102045473/187086941-d34f48ca-f663-4a6e-b8c0-8c7b1bc36fc5.png)
   
 ![Screenshot (35)](https://user-images.githubusercontent.com/102045473/187090012-fa939fa7-ef24-43da-a716-e49617f2b863.png)
+
+
+
 
 
 
