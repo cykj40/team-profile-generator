@@ -7,6 +7,18 @@
   Team generator is a commandline application. The application will prompt the user to answer questions about their individual team members. The application will then record your answers and inject them into a html template  which will help the user keep track of all of their team members.
 
   ## Table of Contents
+  
+  * [Description](#description)
+  * [About](#about)
+  * [User Story](#user-story)
+  * [Acceptance Criteria](#acceptance-criteria)
+  * [Video Preview](#video-preview)
+  * [Screenshots](#screenshots)
+  * [Installation](#installation)
+  * [License](#license)
+  * [Test](#test)
+  * [Contributers](#contributers)
+  * [Questions](#questions)
  
 
   ## About
