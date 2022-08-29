@@ -53,6 +53,8 @@
  ## Video Preview
  <a href="https://watch.screencastify.com/v/Z68a3VozaMy6Yb6y8QST">Click here for a video preview </a>
  
+ <a href="https://drive.google.com/file/d/1IwBiE2Sb7DexVUKeFlp8KzI_lZDPrase">Click here to watch the app pass the Jest test</a>
+ 
  ## Screenshots
   
   
