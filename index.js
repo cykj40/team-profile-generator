@@ -10,7 +10,7 @@ const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 const render = require("./lib/htmlRenderer");
-
+// code that creates objects for each team member. Asks users information to inject into the finished product.
 const teamMembers = [];
 
 function start() {
